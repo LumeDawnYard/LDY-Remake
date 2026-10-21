@@ -1,0 +1,13 @@
+{
+  "item.aeronauticscovers.cover": "覆盖层",
+  "item.aeronauticscovers.directional_cover": "方向性覆盖层",
+  "aeronauticscovers.creative_tab": "航空覆盖层",
+  "aeronauticscovers.cover.name_prefix": "覆盖层 - ",
+  "aeronauticscovers.cover.empty": "覆盖层 - 空",
+  "aeronauticscovers.directional_cover.name_prefix": "方向性覆盖层 - ",
+  "aeronauticscovers.directional_cover.empty": "方向性覆盖层 - 空",
+  "aeronauticscovers.cover.tooltip.line1": "可在 Create 机械结构和物理飞船组装过程中保留。",
+  "aeronauticscovers.cover.tooltip.line2": "普通伪装无法做到这一点。",
+  "aeronauticscovers.jei.empty": "任意方块",
+  "aeronauticscovers.jei.cover_empty": "覆盖层 - 任意方块"
+}

@@ -1,0 +1,21 @@
+{
+  "aeronautics_dyeable_components.simulated_section.levitite": "可染色悬浮石",
+  "aeronautics_dyeable_components.simulated_section.wheels": "可染色轮胎",
+
+  "block.aeronautics_dyeable_components.black_levitite": "黑色悬浮石",
+  "block.aeronautics_dyeable_components.red_levitite": "红色悬浮石",
+  "block.aeronautics_dyeable_components.green_levitite": "绿色悬浮石",
+  "block.aeronautics_dyeable_components.brown_levitite": "棕色悬浮石",
+  "block.aeronautics_dyeable_components.blue_levitite": "蓝色悬浮石",
+  "block.aeronautics_dyeable_components.purple_levitite": "紫色悬浮石",
+  "block.aeronautics_dyeable_components.cyan_levitite": "青色悬浮石",
+  "block.aeronautics_dyeable_components.light_gray_levitite": "淡灰色悬浮石",
+  "block.aeronautics_dyeable_components.gray_levitite": "灰色悬浮石",
+  "block.aeronautics_dyeable_components.pink_levitite": "粉红色悬浮石",
+  "block.aeronautics_dyeable_components.lime_levitite": "黄绿色悬浮石",
+  "block.aeronautics_dyeable_components.yellow_levitite": "黄色悬浮石",
+  "block.aeronautics_dyeable_components.light_blue_levitite": "淡蓝色悬浮石",
+  "block.aeronautics_dyeable_components.magenta_levitite": "品红色悬浮石",
+  "block.aeronautics_dyeable_components.orange_levitite": "橙色悬浮石",
+  "block.aeronautics_dyeable_components.white_levitite": "白色悬浮石"
+}

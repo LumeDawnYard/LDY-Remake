@@ -1,0 +1,19 @@
+{
+  "block.createnotouching.aps_auto_yaw.tooltip.line2": "按住 Shift 键并右键点击以移除纹理",
+  "block.create_no_touching.aps_auto_yaw": "APS 自动偏航装置",
+  "item.create_no_touching.interceptors": "拦截器",
+  "block.create_no_touching.a_parry_s": "AParryS",
+  "block.create_no_touching.tusk_era": "Tusk 反应装甲",
+  "block.create_no_touching.era": "反应装甲",
+  "entity.create_no_touching.scattereds": "散射体",
+  "item.create_no_touching.aps_round": "APS 炮弹",
+  "block.createnotouching.aps_auto_yaw.tooltip": "右键点击实体方块以应用其纹理",
+  "block.create_no_touching.iron_fist": "铁拳",
+  "subtitles.pipe": "",
+  "subtitles.parry": "",
+  "item_group.create_no_touching.create_no_touching": "Create 无接触",
+  "item.create_no_touching.iron_pipe": "铁管",
+  "item.create_no_touching.ceramic_plate": "陶瓷装甲板",
+  "block.create_no_touching.aps": "主动防护系统",
+  "item.create_no_touching.reflective": "反射装甲"
+}

@@ -1,0 +1,9 @@
+{
+  "itemGroup.gyro": "陀螺仪",
+  "block.gyro.gyroscope": "陀螺仪",
+  "tooltip.gyro.gyroscope.header": "陀螺仪：",
+  "tooltip.gyro.gyroscope.speed": "速度",
+  "tooltip.gyro.gyroscope.speed_dots": "..... ",
+  "tooltip.gyro.gyroscope.output": "输出",
+  "tooltip.gyro.gyroscope.output_dots": ".... "
+}
