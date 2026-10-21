@@ -1,4 +1,4 @@
-# LDY-Remake
+# LDY-Remake-Mod
 ## 个人更改/移植/编译的一些模组
 ## 以下内容如有侵权请联系作者删除
 ### kaleidoscope_nether[fab1.21.11]
