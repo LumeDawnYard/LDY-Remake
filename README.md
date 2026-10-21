@@ -13,6 +13,7 @@
 
 ### Create I18n[neo1.21.1]
 这是一些模组的汉化语言文件，安装需要以压缩包的方式打开对应模组jar包
+
 进入assets\"modname"\lang目录并将zh_cn.json文件放入此目录
 
 注："modname"为打开的模组的名字
